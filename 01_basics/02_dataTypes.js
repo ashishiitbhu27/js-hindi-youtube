@@ -6,8 +6,7 @@ let name = "Ashish"
 let age = 20
 let isLoggedIn = true
 let temp = null
-let state;
-
+let state; 
 
 //number => 2 to power 53
 //bigint
@@ -16,7 +15,9 @@ let state;
 //boolean => true/false
 
 //null => standalone value
+
 //undefined =>
+
 //symbol => unique
 
 
