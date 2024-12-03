@@ -38,9 +38,35 @@
 // "Ashish" => true
 
 
-let someNumber = 33
+// let someNumber = 33
 
-let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
- 
+// let stringNumber = String(someNumber)
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+//************** Operations **************************
+
+let value = 3;
+let negValue = -value;
+//console.log(negValue);
+
+// console.log(2+2);
+// console.log(2*2);
+// console.log(2**3); //All operations similar to c++.
+
+
+let str1 = "Hello"
+let str2 = " Ashish"
+//console.log(str1+str2);
+
+// console.log("1" + 2);   // 12
+// console.log(1 + "2");   // 12
+// console.log("1" + "2"); // 12
+// console.log("1" + 2 + 2); // 122
+// console.log(1 + 2 + "2"); //32
+
+console.log(+true); //+ likhne se conversion ho jaata hai
+console.log(+"");
+
+
+
