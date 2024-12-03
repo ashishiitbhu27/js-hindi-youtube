@@ -65,8 +65,15 @@ let str2 = " Ashish"
 // console.log("1" + 2 + 2); // 122
 // console.log(1 + 2 + "2"); //32
 
-console.log(+true); //+ likhne se conversion ho jaata hai
-console.log(+"");
+// console.log(+true); //+ likhne se conversion ho jaata hai
+// console.log(+"");
 
+let num1,num2,num3
+
+num1 = num2 = num3 = 2+2
+
+let gameCounter = 100
+gameCounter++;
+console.log(gameCounter);
 
 
